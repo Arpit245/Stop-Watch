@@ -1,0 +1,42 @@
+
+
+/* Styling Container Div */
+.container {
+
+    display: flex;
+    flex-direction: column;
+    background: rgb(189, 209, 209);
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px;
+    border-radius: 40px;
+    box-shadow: 2px 2px 4px 4px rgb(201, 158, 103);
+    
+}
+
+/* Styling Timer */
+.timer {
+    font-size: 80px;
+    font-weight: bold;
+    padding: 10px;
+    gap: 1.5rem;
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+ /* Adding Margins and Padding Between Buttons */
+.buttonStyle{
+
+	
+	margin : 15px 25px;
+	padding: 15px;
+	width: 150px;
+    
+
+}
+
+
